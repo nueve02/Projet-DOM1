@@ -109,10 +109,29 @@ main {
   cursor: pointer;
 }
 
-/* Au survol */
+
 .card-img-top:hover {
   transform: scale(1.1);
   filter: brightness(80%);
 }
+
+footer {
+  background-color: #f8f9fa; /* couleur claire */
+  padding: 40px 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+footer h5 {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+
 
 
